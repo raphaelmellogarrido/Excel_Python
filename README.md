@@ -4,7 +4,7 @@ Criando colunas e um gráfico BarChart no Excel usando a linguagem PYTHON.
 ## :camera_flash: Screenshoots
 <img src="/excelimg1.png" width="260">&emsp;
 
-## Tenologias
+## Tecnologias
 * Python 100%
 * Openpyxl
 * Barchart
